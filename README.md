@@ -26,4 +26,15 @@ Welcome to my **Arduino Projects Repository**! 🚀 This repository contains var
 
 ## 📷 Gallery
 [Insert images or GIFs of your working projects here]
+## 📩 Contributing
+Feel free to contribute by:
+- Submitting new Arduino projects.
+- Improving existing code.
+- Reporting issues and suggesting enhancements.
+
+## 📧 Contact
+For any queries or collaboration, reach out to me at **prashantkumar74806@gmail.com**
+
+Happy tinkering with Arduino! 🤖✨
+
 
